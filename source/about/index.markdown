@@ -1,13 +1,10 @@
 ---
 layout: page
-title: "about"
-date: 2013-07-25 16:02
+title: "About Jai Ivarsson"
 comments: false
 sharing: true
 footer: true
 ---
-
-# About Jai Ivarsson
 
 I'm a web developer, music junky and lover of endurance & two wheel sports. Yes, it's an eclectic mix.
 
