@@ -58,6 +58,19 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # post_asides:
 # page_asides:
 
+# Plugin: jekyll-assets
+assets:
+  dirname: /
+  baseurl: /assets/
+  sources:
+    - javascripts
+    - stylesheets
+    - assets
+  js_compressor:  uglifier
+  css_compressor: sass
+  cachebust: hard
+  gzip: [ text/css, application/javascript ]
+
 # ----------------------- #
 #   3rd Party Settings    #
 # ----------------------- #
